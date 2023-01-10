@@ -24,10 +24,10 @@ Mahmudtpi97 manufactures different styles of buttons according to different need
 ## Technical details: 
 These buttons use pure CSS3 code to render their appearance. Due to their reliance on CSS3, they will only work in modern browsers that fully support CSS3.</p>
 ## Ex. Image
-https://mahmudtpi97.github.io/ButtonStyle/img/1.png/
-https://mahmudtpi97.github.io/ButtonStyle/img/2.png/
-https://mahmudtpi97.github.io/ButtonStyle/img/3.png/
-https://mahmudtpi97.github.io/ButtonStyle/img/4.png/
+        <img src="https://mahmudtpi97.github.io/ButtonStyle/img/1.png" alt="button image">
+        <img src="https://mahmudtpi97.github.io/ButtonStyle/img/2.png" alt="button image">
+        <img src="https://mahmudtpi97.github.io/ButtonStyle/img/3.png" alt="button image">
+        <img src="https://mahmudtpi97.github.io/ButtonStyle/img/4.png" alt="button imag2">
 
 ## HOW TO USE
 Using button set on your website is fairly easy. To integrate it into your website, all you need to do is take the idea from the below structure .
